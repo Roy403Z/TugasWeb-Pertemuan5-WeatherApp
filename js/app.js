@@ -1,5 +1,5 @@
 // Requirements ES6+: const, arrow functions, template literals
-const API_KEY = '8308224853d732907687918f1737aa40'; // Ganti dengan API Key OpenWeatherMap Anda
+const API_KEY = 'd75edd65d709e8f95f4ba078496dc01d'; // Ganti dengan API Key OpenWeatherMap Anda
 const BASE_URL = 'https://api.openweathermap.org/data/2.5';
 
 // DOM Elements
